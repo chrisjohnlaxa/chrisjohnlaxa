@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact **Ctrl+C | Ctrl+V**
 
-- 👨‍💻 All of my projects are available at **[https://ceej-portfolio-app.vercel.app/](https://ceej-portfolio-app.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[Ceej/](https://ceej-portfolio-app.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link](https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link)**
+- 📄 Know about my experiences **[My Google Drive Folder](https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
