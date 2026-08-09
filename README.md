@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play League of Legends**
 
-- 👨‍💻 All of my projects are available at **[Ceej/](https://ceej-portfolio-app.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[Chrisjohn Laxa/](https://website-portfolio-pi-three.vercel.app/)**
 
 - 📄 Know about my experiences **[My Google Drive Folder](https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link)**
 
