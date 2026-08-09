@@ -2,15 +2,13 @@
 
 ### A passionate Junior Full-Stack Developer
 
-- 🔭 I'm currently working on **A WordPress (Elementor) project for Wholesale Building Materials.**
+- 🔭 I'm available for work
 
-- 🌱 I'm currently learning **GraphQL and TypeScript**
+- 🌱 I'm currently learning **WordPress + Elementor**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
 - 🤝 I'm looking for help with **learning system design**
-
-- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **chrisjohnilaxa@gmail.com**
 
