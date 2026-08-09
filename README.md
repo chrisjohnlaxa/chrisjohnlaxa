@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chrisjohnilaxa@gmail.com**
 
-- ⚡ Fun fact **Ctrl+C | Ctrl+V**
+- ⚡ Fun fact **I play League of Legends**
 
 - 👨‍💻 All of my projects are available at **[Ceej/](https://ceej-portfolio-app.vercel.app/)**
 
