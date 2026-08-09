@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[Chrisjohn Laxa/](https://website-portfolio-pi-three.vercel.app/)**
 
-- 📄 Know about my experiences **[My Google Drive Folder](https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link)**
+- 🗂️ Check out my **[My Google Drive Folder](https://drive.google.com/file/d/14kFCymL1MNHqltxbU1gOiI4gGbCxDG3a/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
