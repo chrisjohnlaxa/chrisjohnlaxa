@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I play League of Legends**
 
-- 👨‍💻 All of my projects are available at **[Chrisjohn Laxa/](https://website-portfolio-pi-three.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[Chrisjohn Laxa/](https://chrisjohnlaxa.vercel.app/)**
 
 - 🗂️ My resume **[See document](https://drive.google.com/file/d/1AcZbzdGMgbrG4vzoFsxmvXQHDqkmGogL/view?usp=drive_link)**
 
