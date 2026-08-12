@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chrisjohnilaxa@gmail.com**
 
-- ⚡ Fun fact **I play League of Legends**
+- ⚡ Fun fact **I play League of Legends, I'm a top laner and Master is my highest peak.**
 
 - 👨‍💻 All of my projects are available at my website: **[Chrisjohn Laxa/](https://chrisjohnlaxa.vercel.app/)**
 
