@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my website: **[Chrisjohn Laxa/](https://chrisjohnlaxa.vercel.app/)**
 
-- My Portfolio (PDF): **[View Portfolio]https://drive.google.com/file/d/1OQgxLMc-GHNa2zT9ABqiCUS5Uw3Aqy8n/view?usp=sharing**
+- My Portfolio (PDF): **[View Portfolio](https://drive.google.com/file/d/1OQgxLMc-GHNa2zT9ABqiCUS5Uw3Aqy8n/view?usp=sharing)**
 
 - 🗂️ My resume **[View Resume](https://drive.google.com/file/d/1AcZbzdGMgbrG4vzoFsxmvXQHDqkmGogL/view?usp=drive_link)**
 
