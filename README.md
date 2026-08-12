@@ -4,7 +4,7 @@
 
 - 🔭 I'm available for work
 
-- 🌱 I'm currently learning **WordPress + Elementor**
+- 🌱 I'm currently learning **Local SEO**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
